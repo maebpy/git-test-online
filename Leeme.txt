@@ -1,0 +1,8 @@
+Descargamos el sistema que vamos a utilizar de ejemplo
+Descargamos e instalamos git
+Luego habrimos un bash y navegamos al lugar donde queremos crear nuestro repositorio local
+inicializamos git 
+verificamos el estado del repositorio
+agregamos nuestro proyecto
+commiteamos primer
+ primer cambio
